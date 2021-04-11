@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919027294270",
+    "project_id": "organo-67f86",
+    "storage_bucket": "organo-67f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919027294270:android:7bac026b301856486db16f",
+        "android_client_info": {
+          "package_name": "com.example.organo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919027294270-i4qnh1omn58fiv36fgk7uib35jc0uekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PHpwQ8VX3Qam7o2nlV9sJk7hQSavbv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919027294270-i4qnh1omn58fiv36fgk7uib35jc0uekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
